@@ -11,6 +11,14 @@
   "engines": {
     "node": "~0.6.18"
   },
-  "dependencies": {},
+  "dependencies": {
+    "async": "0.1.x",
+    "structr": "0.2.x",
+    "tq": "0.0.x",
+    "step": "0.0.x",
+    "mongoose": "2.6.x",
+    "outcome": "0.0.x",
+    "cashew": "0.0.x"
+  },
   "devDependencies": {}
 }
