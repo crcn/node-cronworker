@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/crcn/node-cronworker.png)](http://travis-ci.org/crcn/node-cronworker)
 Features:
 
 - Specify when to send jobs
